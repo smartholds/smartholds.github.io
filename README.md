@@ -1,2 +1,0 @@
-# smartholds.github.io
-site
